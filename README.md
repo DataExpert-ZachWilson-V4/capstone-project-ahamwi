@@ -2,7 +2,7 @@
 
 
 
-# Scientific Paper Scraping and Insights Generation System (1st Proposal Draft)
+# Scientific Paper Scraping and Insights System (1st Proposal Draft)
 
 ## Overview
 Develop a system that scrapes daily new scientific papers from multiple online sources, aggregates the data, and generates insights through natural language processing (NLP) and data visualization techniques. This system will help researchers and academicians stay updated with the latest research trends and developments in their fields of interest.
@@ -36,7 +36,7 @@ This project aims to provide a comprehensive system for scraping, analyzing, and
 #### Fact Table: `Papers`
 #### Dimension Table: `Journals`
 #### Dimension Table: `Authors`
-#### To be added
+#### More to be added
 
 ## Suggested Insights and Metrics
     - Identify and visualize trending research topics over different time periods.
